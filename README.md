@@ -58,9 +58,7 @@ Throughout the project, the team encountered various challenges. Some of the pro
 
 ## User Manual
 
-Please refer to the README file in the repository for detailed instructions on how to use the software. The user manual provides
-
- comprehensive guidance for both the desktop and mobile interfaces.
+Please refer to the README.txt file in the repository for detailed instructions on how to use the software. The user manual provides comprehensive guidance for both the desktop and mobile interfaces.
 
 ## Technologies Used
 
